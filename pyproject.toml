@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "quasar"
+version = "0.1.0"
+description = ""
+authors = ["XDeviation <xth9681@gmail.com>"]
+license = "GPL-3.0 license"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
